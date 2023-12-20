@@ -35,7 +35,7 @@
 <a href="https://dbeaver.io" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" alt="Dbeaver" height="30"/></a>
 <a href="https://www.portainer.io" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/portainer-icon-366x512-rt9if7pd.png" alt="Portainer" height="30"/></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" alt="Jira" height="30"/></a>
-<a href="https://www.sonarsource.com/" target="_blank"><img style="margin: 10px" src="https://www.byiorio.com.br/assets/img/sonar.png" alt="Sonarqube" height="30" /></a>
+<a href="https://www.sonarsource.com/" target="_blank"><img style="margin: 10px" src="https://www.byiorio.com.br/assets/img/sonar.png" alt="Sonarqube" height="33" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="30" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" alt="GitLab" height="30"/></a>
